@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Irmana" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="140" head="78" body="90" legs="13" feet="15" addons="3"/>
+	<parameters>
+	<parameter key="message_greet" value="What do you want from me, |PLAYERNAME|?" />
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_sellable" value="minotaur leather,5878,80;green dragon leather,5877,100;lizard leather,5876,150;carrion worm fang,11192,90;lion mane,10608,50;rotten piece of cloth,11208,70;ghoul snack,12423,50;red dragon leather,5948,200;blue piece of cloth,5912,200;brown piece of cloth,5913,100;green piece of cloth,5910,200;red piece of cloth,5911,300;white piece of cloth,5909,100;yellow piece of cloth,5914,150;spider silk yarn,5886,1000;velvet tapestry,9837,800;royal tapestry,9958,1000;ape fur,5883,120;cyclops toe,10574,160;scythe leg,11229,30;bunch of troll hair,10606,90"/>
+	</parameters>
+</npc>

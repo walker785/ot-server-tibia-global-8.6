@@ -1,0 +1,366 @@
+=====================================================LISTA DE COMANDOS OT 8.6====================================================
+
+                                                              .                                                         
+                                                              QBBM                                                      
+                                                            BBQEqQBu                                                    
+                                                          BBPKMMDQRBB7                                                  
+                                                        dQPjJJQBBBBQBs                                                  
+                                                      JBQgjYSbBR    .                                                   
+                                                      dQR2EbQQBg                                                        
+                                                      5BqLSKQBQQ                                                        
+                                                      5B2i11MMBg                                                        
+                                                      5B2rYJEMBBi.  rrrrrrr7i                                           
+                                                      5BS7LvQRQBBQ.XBBBBBQBBB..                                         
+                                                      2BdI25MRMDuMBBRgdgDgZdgBQ                                         
+                                                      5BD5I1dPgE5XZDQggdEQBZDPBBQ                                       
+                                                      KBPu77J2ggDgbgRQMgZRQgd5qRBB5                                     
+                                                      XBBdvrj1MgBMgMBgRQBZgPb5XUMQJ                                     
+                                                        SBDESPBBQQZQQRMQQP5dPDqLqB7   gBBB                              
+                                                      rQBQBBQE.:XqBggMBZEjjPEEbugQBBBB2:7vBB                            
+                                                    rBQMMgBBBD  LXBBQBQP2PPQgIPBQrPBELgBQBBBBd                          
+    V O N    W A L K E R                           jBBSgggDBBdEBMPPPbDgRS51XQBvr .:rrZBgE2XBB                          
+                                                    7BBDMQPqbDgBBQPbPK255LvBBQDsvsriYXJs7r:rBR                          
+                                                    uBBBI7557777LLjsYDBBBBBPKiLgDPqU1JJv7rrrBB7.                        
+                                                    :qBBEudRDRBQIPZgEbUMQBBi:..7JQX1Jsvv77uIQBBB:iir7                   
+                                                      iPBBBBBQPQBBMRQY:. :r1U.:i75XPU77rJJBQgZDBBBBBBL:                 
+                                                        DBEX7r  Bj   sB. :rLvuUgJ.r5sYj1dMQQXK5qbMB5rBB:                
+                                                        bBBBbSr:  ..:::..r77vvJbdgj.sPggBQgZ2IPPgDRPK2IBB               
+                                                          QBQBBg.i:rvv7r:rr::irEqqbgdPQBQQgg5KPZRSrv7sLBB               
+                                                            BBBZ.:v7LsIJs12u2PU...sBgEQQQRBBQQBMjj1jjvvIdBB             
+                                                            BBIJ iqL:iii:rrrrusrjQggdEDggRZgBBBBBQvL7Lv77QBBBB5         
+                                                            BBBZsUqEB7..::::::i:IBBdgMEPDZggBb   rBR2vv...iQBQBBL       
+                                                            .:BB7sYqQQBS7:.::riiiijBddqPDMMQDg155: uBBBP5  irZQBs       
+                                                              ivBBYIEBB. :r.::r7r.sQP5EEMgbqKEBQBQ72bDQBB  .iIXDZb:     
+                                                                L5BQZMgsrgQr:..ri:sBBBBBBBBBQBBQ1EQRDS2ri  ..PUJQB:     
+                                                                 .Bg   QBBBMDii.. uBEuUJI1PbBBSSIKEQBBB..i7rJQBBBB27    
+                                                                 .DIii.uSRQBBBMi: 1B:      :QgLPQBBMqBBBBQRBM:rXgBBB:   
+                                                                   iBBQd5j1BB2EBMiPBr ... riivBBXKKqbPbBBBBBQ    gBB:   
+                                                                       PBBMBg  BBBBB1:rrirLYJXBBSPPPqPKPPZDBBBg   rB.   
+                                                                         QBBBBB  QBBPL21U1j2BBPXKXqKPKqqbEZPgQBBU       
+                                                                           BBBB .BBPQBBBBBBBdEgDPP5KSqKdbDEPPMMBBBi     
+                                                                             BB   rBQKZgS1JYLjddMEdXSqddDDgKPDZPBB:     
+                                                                                  vBBKSXPELsr7jIqEgEKPqDZbPPPgdPbRBB.   
+                                                                                    SBEUZDbK7r7vjXMgQZDPbSqZgPbPbqBB:   
+                                                                                    qBBgZggMq5r7rJIPddPqXDZgESXZPqBB.   
+                                                                                    .:BBMqPqgZd2ir7JSPDdEZZKq5qdP2BQ.   
+                                                                                      .rQB55bgQE7js5SZgZbPXKSPqZPqBB.   
+                                                                                        BBRbEEZbKPgDgPPI52XXPPZMDXBQ.   
+                                                                                        5EQBPPXPKdZMQbXSIqKZZQggP1BB.   
+                                                                                          QBBRI255SPgBBBBBBZZDb1IJBQ:   
+                                                                                            QBBBMQQBQBBBBQDDPPqbZRBB.   
+                                                                                              BBBBBBB      BBBBBBBi     
+
+
+=================================================================================================================================                                                                                                                    
+                                                                                                                        
+                                                                                                                        
+                                                                                                    
+Introdução
+
+• Comandos de GODs
+
+• Comandos de Game Masters
+
+• Comandos de Community Manager
+
+• Comandos de Seniors Tutores
+
+• Comandos de Tutores
+
+• Comandos de Players
+
+• Comandos de House
+
+• Comandos de Guild
+
+
+OBS: Todos os comandos mudam de acordo com o servidor jogado.
+
+
+
+
+GODs
+
+/addskill » Comando para adicionar skills nos players
+
+/attr »Bem, com este comando você pode fazer praticamente tudo, desde editar items, monstros até players, direto do seu GOD.
+
+/serverdiag » Mostra informações do servidor, como nº de players, NPCs, Monstros e outras informações mais avançadas.
+
+/closeserver » Comando que serve para fechar o servidor para players, sendo possivel a entrada apenas de GOD/GM/CM/Tutores.
+
+/openserver » Serve para abrir o servidor, quando ele tiver sido fechado com o comando anterior.
+
+/promote » Promote acrescenta um nível de acesso à tal player
+
+/demote » Demoteabaixa o nível de acesso á tal player (tem que ter promote)
+
+/shutdown » Basta executar o comando /shutdown seguido de um dos modelos abaixo (opcional).
+
+/mode » Muda o tipo de PVP.
+
+/info » Mostra informações detalhadas sobre determinado player.
+
+
+
+Game Masters (GM)
+
+/ghost » Habilitar ou desabilitar invisibilidade para Players.
+
+/squelch » Habilita ou desabilita o bloqueio de Mensagens Privadas.
+
+/cliport » Você é teleportado para onde você clica
+
+/t » Teleporta para o templo.
+
+/c » Teleporta um Player ou Monstro para você.
+
+/goto » Teleporta você para um player/posição/lugar
+
+/a » Teleporta você a uma distância desejada.
+
+/kick » Faz logout num player.
+
+/send » Manda um player/monstro para determinada posição.
+
+/unban » Desfaz o banimento de um determinado player ou account.
+
+/town » Envia você ou algum player para a Cidade Natal.
+
+/up »Sobe um andar no mapa
+
+/down » Desce um andar no mapa
+
+/save » Salva o servidor.
+
+/clean » Limpa o mapa.
+
+/reports » Mostra os reports feitos pelos players.
+
+/mc » Procura players ativos em um mesmo IP.
+
+
+
+Community Managers
+
+/s» Sumona um Monstro.
+
+/n» Cria um NPC existente.
+
+/m »Cria um Monstro existente.
+
+/reload »Recarrega scripts e valores.
+
+/raid » Executa uma Raid
+
+/newtype »Você pode alternar entre todos os outfits disponíveis no servidor
+
+/r » Remove o tile ou criatura que estiver a sua frente.
+
+/owner » Modifica o dono de alguma casa.
+
+/storage »Mostra ou modifica o Storage de algum player.
+
+/config »Mostra valores no Config.lua.
+
+/i »Cria um item existente.
+
+/z »Mostra um Efeito Mágico.
+
+/x » Mostra um Efeito de Animação.
+
+/y » Mostra um texto animado em cores diferentes. Pode ser útil na definição de cores de alguns scripts.
+
+/bc » Mensagem para todos, colorida.
+
+/mkick » Desloga vários players
+
+
+
+Seniors Tutores
+
+/wp » Mostra os Waypoints do mapa.
+
+/notations » Mostra as Notations de certo player.
+
+/gethouse » Mostra o nome da casa de certo player e/ou teleporta.
+
+/b » Manda uma mensagem para todos do servidor.
+
+
+
+
+Tutores
+
+/baninfo » Mostra uma informação detalhada sobre o banimento de certo player.
+
+/pos » Mostra a posição do player que usa.
+
+
+
+Players
+
+(comandos básicos)
+
+
+!frags » Mostra o número de frags do player e o tempo.
+
+!online » Mostra uma lista de jogadores online.
+
+!uptime » Mostra o tempo que o servidor está online.
+
+!pvp » Mostra o World type.
+
+!q » Mostra a quantidade de dinheiro que o player possiu no inventário.
+
+!serverinfo » Mostra informações detalhadas sobre o servidor, como Exp Rate e Skill Rate, por exemplo.
+
+/commands » Mostra todos os comandos que o player tem acesso.
+
+
+
+Comandos de Guild
+
+(Só funciona no chat da guild!)
+
+
+!createguild » Membro cria uma Guild.
+
+!joinguild » Membro se junta a uma guild (já invitado)
+
+!promote » O lider da guild promove alguem dela para "Vice-Leader"
+
+!demote » O Lider da guild tira o promote (nivel acima de um membro comum)
+
+!invite » O lider da guild invita algum player.
+
+!leave » Membro normal sai da guild.
+
+!disband » O lider da guild fecha a guild.
+
+!nick » O lider da guild adiciona um sub-nick(apelido) para tal membro da guild.
+
+!kick » O lider da guild kika algum membro delá.
+
+!setrankname » O lider da guild muda os ranks da guild (Exemplo: De Druid para curandeiro)
+
+
+
+
+Comandos de House
+
+(comandos funcionam dentro da house e alguns fora)
+
+
+aleta som » Invita uma pessoa dentro da sua house e deixa ele(a) abrir a porta.
+
+!buyhouse » Compra house
+
+!sellhouse » Vende House
+
+aleta sio » Invita uma pessoa dentro da sua house sem ele(a) poder abrir a porta.
+
+aleta grav »Invita uma pessoa dentro da sua house e deixa ele(a) abrir a porta
+
+!leavehouse » Você se "retira" da sua casa.
+
+alana sio »Você vai para fora da sua casa.
+
+
+
+
+Lista de Maneiras de fazer o comando /attr
+
+
+Items:
+
+/attr set string name -- Muda o nome de algo, como uma espada.
+
+/attr set string description -- Muda a descrição de algo, como uma espada.
+
+/attr description -- Muda a descrição de algo, como uma placa.
+
+/attr count -- Muda a quantia de algum item, como Crystal Coins.
+
+/attr fluidtype -- Nunca usei, logo não sei para que serve. ;]
+
+/attr charges -- Muda as cargas das runes.
+
+/attr action ou /attr aid -- Muda o action ID de algum item.
+
+/attr unique ou /attr uid -- Muda o unique ID de algum item
+
+/attr duration - Muda a duração de algum item, como um anel.
+
+/attr writer -- Nunca usei, logo não sei para que serve.
+
+/attr text -- Muda o texto de algum item.
+
+/attr name -- Muda o nome de algum item.
+
+/attr pluralname -- Muda o nome de um item para o plural.
+
+/attr article -- Nunca usei, logo não sei para que serve.
+
+/attr set number attack -- Muda o ataque de algum item.
+
+/attr extraattack -- Adiciona ataque extra em algum item.
+
+/attr set number defense -- Muda a defesa de algum item.
+
+/attr extradefense -- Adiciona defesa extra em algum item.
+
+/attr armor -- Adiciona "armor" em alguma armadura.
+
+/attr attackspeed -- Muda o ataque speed de algum item.
+
+/attr hitchance -- Muda a chance de hitar de algum item.
+
+/attr shootrange -- Muda a distancia que algum item pode alcançar.
+
+/attr depot ou /attr depotid -- Muda o ID do depot.
+
+/attr position ou /attr pos -- Nunca usei, logo não sei para que serve.
+
+
+Players:
+
+/attr health -- Adiciona vida no player.
+
+/attr maxhealth -- Muda a quantidade de vida do player.
+
+/attr mana -- Adiciona mana no player.
+
+/attr maxmana -- Muda a quantidade de mana do player.
+
+/attr basespeed -- Muda a velocidade do player.
+
+/attr droploot -- Muda a chance de conseguir loot do player.
+
+/attr lossskill -- Muda a velocidade de adiquirir skill do player.
+
+/attr cannotmove -- Faz o player não se mover.
+
+/attr skull -- Muda a skull do player
+
+/attr guildrank -- Muda o guild rank do player.
+
+/attr guildnick -- Muda o nick do player.
+
+/attr group -- Muda o acesso do player.
+
+/attr vocation -- Muda a vocation do player.
+
+/attr sex -- Muda o sexo do player.
+
+/attr stamina -- Muda a stamina do player.
+
+/attr town -- Muda a cidade do player.
+
+/attr balance -- Muda a quantidade de dinheiro que o player tem no banco.
+
+/attr marriage -- Altera o status de casamento do player.
+
+/attr rates -- Muda as rates do player.
+
+/attr saving -- Salva o player.
